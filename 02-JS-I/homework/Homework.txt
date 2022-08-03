@@ -1,0 +1,20 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+
+Variables: Las variables son simplificaciones o resumen de algo que guardamos para luego usar más adelante en el código. Para crear una variable se utiliza el comando var, seguido de un espacio y el nombre que le queremos dar a esa variable. 
+
+Strings: son palabras o texto que forman parte del código. Por lo general estos strings serán visibles en el retorno cuando se ejecute el código. 
+
+Funciones: Las funciones son las encargadas de hacer algo con las variables, como calcularlas, cambiarlas, analizarlas, etc. Se escriben comenzando con la palabra clave function, después hay que poner el nombre de la función. Luego viene un paréntesis abierto y otro cerrado. Finalmente se abre y cierra corchetes. Entre estos corchetes se debe escribir el código que se desea que se ejecute cada vez que se invoca la función descripta.
+En los paréntesis descriptos anteriormente luego del nombre de la función, se puede agregar una variable, la cual pude ser usada por el código de la función. Esto permitirá que cuando llamemos a la función en la consola, vamos a poder darle un valor a esa variable y la función la analizará y nos devolverá un resultado relacionado con el valor de la variable que ingresamos. Estas variables son las que llamamos argumentos de la función. 
+El retorno o return es lo que deseamos mostrar una vez que se ejecuta la función en la consola.    
+
+Declaraciones `if` : son tipos de funciones en las cuales se utiliza operadores de control de flujo o de comparación. En ellas se abre dos o tres caminos posibles de desarrollo de un código, si se verifica o no primeramente una condición impuesta por el programador. La función puede devolver tres resultados diferentes dependiendo de la verificación inicial del argumento. 
+
+Valores booleanos (`true`, `false`): Estos retornos se dan cuando se realiza una comparación entre dos valores, verificando si cumple o no con una condición impuesta por el programador. Son los dos únicos resultados posibles. 
