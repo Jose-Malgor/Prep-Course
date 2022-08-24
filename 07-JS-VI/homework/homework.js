@@ -56,7 +56,7 @@ function filter(array) {
   //Devolver un nuevo array con los elementos que cumplen la condición
   //Tu código:
 var filtro = array.filter (array => array.charAt(0) === "a");
-return filtro;
+return filtro
 }
 
 // No modificar nada debajo de esta línea
